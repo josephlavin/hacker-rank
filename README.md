@@ -1,7 +1,6 @@
-# hacker-rank
+# HackerRank
 
 Solutions to HackerRank.com programming puzzle.
 
-## Execution Times
-
-Table coming soon.
+# Challenges
+- Candies <https://www.hackerrank.com/challenges/candies>
